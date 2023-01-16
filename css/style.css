@@ -64,6 +64,27 @@ ul{
 
 }
 
+/* SEZIONE 4 */
+/* tabella */
+
+table{
+  border-spacing: 0;
+}
+th{
+    padding-right:100px
+}
+td{
+    padding: 20px;
+}
+
+thead{
+    background-color:rgba(32,169,229,255) ;
+    color: white;
+}
+
+.background-tr{
+    background-color:rgba(177,229,242,255);
+}
 
 
 /* header */
