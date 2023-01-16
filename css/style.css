@@ -1,0 +1,24 @@
+
+/* margin e border */
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* logo style header */
+#logo-booleaner{
+    width: 20%;
+    position: absolute;
+    bottom: 5%;
+    left:1%;
+}
+
+/* header */
+header{
+    margin:0;
+    position: relative;
+    height: 10vh;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+}
