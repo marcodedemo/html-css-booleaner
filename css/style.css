@@ -13,6 +13,8 @@
     left:1%;
 }
 
+
+/* SEZIONE 1 */
 /* style info articolo */
 
 h1{
@@ -31,6 +33,7 @@ h1{
     font-size: 10px;
 }
 
+/* SEZIONE 2  */
 /* immagini + fonti */
 
 .pics{
@@ -40,6 +43,25 @@ h1{
 .pics > span{
     display: block;
     font-size: 10px;
+}
+
+/* SEZIONE 3 */
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.evidenziato{
+    background-color: rgba(255,255,0,0.8);
+}
+
+/* indentazione ul */
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+    margin-bottom: 20px;
+
 }
 
 
