@@ -71,7 +71,7 @@ table{
   border-spacing: 0;
 }
 th{
-    padding-right:100px
+    padding-right:100px;
 }
 td{
     padding: 20px;
@@ -87,6 +87,7 @@ thead{
 }
 
 
+
 /* header */
 header{
     margin:0;
@@ -95,4 +96,9 @@ header{
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     background-size: 50%;
+}
+
+main{
+    margin-left:10px;
+    margin-right:10px;
 }
