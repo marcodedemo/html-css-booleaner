@@ -13,6 +13,23 @@
     left:1%;
 }
 
+/* style info articolo */
+.color-grey,#data-articolo{
+    color: grey;
+}
+
+.color-blue{
+    color: #4EA0FF;
+}
+
+#data-articolo{
+    font-size: 10px;
+}
+
+
+
+
+
 /* header */
 header{
     margin:0;
